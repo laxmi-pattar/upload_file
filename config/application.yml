@@ -1,0 +1,4 @@
+development:
+  AWS_ACCESS_KEY_ID: 'AKIAIZH3NUE3DYTRAFYQ'
+  AWS_SECRET_ACCESS_KEY: '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'
+  S3_BUCKET: 'laxmi-ecommerceapp'
